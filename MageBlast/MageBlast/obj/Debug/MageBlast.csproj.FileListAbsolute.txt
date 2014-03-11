@@ -1,0 +1,11 @@
+C:\Documents and Settings\user1\My Documents\Visual Studio 2008\Projects\MageBlast\MageBlast\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user1\My Documents\Visual Studio 2008\Projects\MageBlast\MageBlast\obj\Debug\MageBlast.Form1.resources
+C:\Documents and Settings\user1\My Documents\Visual Studio 2008\Projects\MageBlast\MageBlast\obj\Debug\MageBlast.Properties.Resources.resources
+C:\Documents and Settings\user1\My Documents\Visual Studio 2008\Projects\MageBlast\MageBlast\obj\Debug\MageBlast.csproj.GenerateResource.Cache
+C:\Documents and Settings\user1\My Documents\Visual Studio 2008\Projects\MageBlast\MageBlast\bin\Debug\MageBlast.exe
+C:\Documents and Settings\user1\My Documents\Visual Studio 2008\Projects\MageBlast\MageBlast\bin\Debug\MageBlast.pdb
+C:\Documents and Settings\user1\My Documents\Visual Studio 2008\Projects\MageBlast\MageBlast\bin\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\user1\My Documents\Visual Studio 2008\Projects\MageBlast\MageBlast\bin\Debug\Interop.WMPDXMLib.dll
+C:\Documents and Settings\user1\My Documents\Visual Studio 2008\Projects\MageBlast\MageBlast\bin\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\user1\My Documents\Visual Studio 2008\Projects\MageBlast\MageBlast\obj\Debug\MageBlast.exe
+C:\Documents and Settings\user1\My Documents\Visual Studio 2008\Projects\MageBlast\MageBlast\obj\Debug\MageBlast.pdb
