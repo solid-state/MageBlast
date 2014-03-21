@@ -20,8 +20,8 @@ The game has the follow changes from the original project:
 Program has the following bugs:
 <ul>
 <li>Character takes double steps after third level.
-  Has something to do with 'Position Detection' solution,
-  which was implemented to stop sprites occupying same location.</li>
+    Has something to do with 'Position Detection' solution,
+    which was implemented to stop sprites occupying same location.</li>
 <li>Player can not attack in a diagonal position. - From original design</li>
-<li>Two potions give unlimited potions. - From original design</li>
+<li>Two potions enables unlimited potions. - From original design</li>
 </ul>
