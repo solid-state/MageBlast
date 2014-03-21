@@ -4,7 +4,7 @@ Title: Mage Blast<br></h6>
 
 <p>This repository holds a program made in Visual C#.<br>
 It contains full listing of a c# computer game, called 'Mage Blast'.<br>
-This program is a modification and progression of 'Lab2 - The Quest' from the book series HeadFirst,<br>
+This program is a modification and a progression of 'Lab2 - The Quest' from the book series HeadFirst,<br>
 called HeadFirst C# by Andrew Stellman & Jennifer Green.</p><br>
 
 The game has the follow changes from the original project:
